@@ -26,20 +26,21 @@ pip install numpy matplotlib
 ## How to run
 
 Execute the Python script from your terminal:
+```bash
 python3 frame_simulation.py
+```
 
 ## Controls
 Once the simulation window opens, you can interact with the physics in real-time:
 
 - Mass ($M$): Adjust the mass of the central body/galaxy.
-- Rt​ (Transition Radius): Modify the characteristic scale at which the Frame effect becomes dominant.
-- Simulation Speed: Speed up or slow down the numerical integration.
+- Simulation Orbits Speed: Speed up or slow down the numerical integration.
 - Reset Button: Re-initializes all test particles to their starting positions.
 
 ## Citation / Paper Reference
 This code is provided as supplementary material for the paper:
 
-    The Fabric of Spacetime as a Viscoelastic Medium: Cosmological and Phenomenological Implications
+    Title: The Fabric of Spacetime as a Viscoelastic Medium: Cosmological and Phenomenological Implications
     Author: Hedi Kebli
     Journal link: [Link to be added]
 
