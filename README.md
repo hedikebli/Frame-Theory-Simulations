@@ -13,7 +13,7 @@ The simulation visually and mathematically compares Newton's laws with Frame The
 2. **Photon Deflection (Gravitational Lensing):** Demonstrates the theoretical limit of light deflection in both models, featuring a dynamic auto-zoom that scales with the galaxy's mass to perfectly illustrate the Eddington factor of 2.
 3. **Galactic Rotation Curves:** Dynamically computes and plots the macroscopic rotation curves. It highlights how Frame Theory naturally predicts the flattening of galactic rotation curves at large radii **without the need for Dark Matter**.
 4. **Empirical Validation (SPARC Catalog):** Plots the real-time asymptotic velocity of the simulated galaxy against empirical data from the SPARC catalog (Baryonic Tully-Fisher Relation), proving the model's accuracy across different mass scales.
-5. 
+
 ## Prerequisites
 
 To run this simulation, you will need **Python 3** installed on your machine, along with two standard scientific libraries: `numpy` and `matplotlib`.
