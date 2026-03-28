@@ -34,7 +34,7 @@ python3 trame_sparc_animated.py
 ## Controls
 Once the simulation window opens, you can interact with the physics in real-time:
 
-- Log10(Mass M☉): Adjust the baryonic mass of the central galaxy (from dwarf galaxies at 108M⊙​ to massive spirals at 10^{11.5} M_\odot$). The transition radius $R_t is dynamically computed based on this mass and the fundamental constant a0​.
+- Log10(Mass $M_\odot$): Adjust the baryonic mass of the central galaxy (from dwarf galaxies at $108M_\odot$​ to massive spirals at $10^{11.5} M_\odot$). The transition radius $R_t is dynamically computed based on this mass and the fundamental constant a0​.
 - Orbit Speed: Adjust the numerical integration steps (from 10 to 50) to speed up or slow down the orbital visualization.
 - Reset Button: Re-initializes all test particles and photons to their starting positions.
 
